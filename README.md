@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img src="wave.gif" width="18">
 </span>
 <br>
-I’m currently studying Information Technology at University of Mumbai.
+I’m studying Information Technology at University of Mumbai.
 <br>
 Contact: <a href="https://www.linkedin.com/in/bhushan-it/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"></a>
 <br>
